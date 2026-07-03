@@ -1,0 +1,3 @@
+build/
+*.o
+torus_1M.stl
